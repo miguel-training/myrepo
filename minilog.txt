@@ -1,0 +1,23 @@
+[33mcommit f164cade0c164997aa61ff96cf47e800a5fa30c5[m
+Author: Miguel Cardo <miguel.cardo@gmail.com>
+Date:   Mon Jul 8 21:36:25 2013 +0000
+
+    Ahora soy yo
+
+[33mcommit 44a9f0cdddef896dfd4353f09953e71e022ea819[m
+Author: John Smith <example@stanford.edu>
+Date:   Mon Jul 8 21:29:19 2013 +0000
+
+    One more commit
+
+[33mcommit 321abacdfc6798a7e13207ae9cf6abf6db58157a[m
+Author: John Smith <example@stanford.edu>
+Date:   Mon Jul 8 21:24:43 2013 +0000
+
+    added new line
+
+[33mcommit ba4b3c029c836f420ba612c2b4a95c0c37b924bf[m
+Author: John Smith <example@stanford.edu>
+Date:   Mon Jul 8 21:21:25 2013 +0000
+
+    Added first file
